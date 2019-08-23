@@ -11,8 +11,3 @@ by404rgr
       pip install -r requirements.txt
       python spamercall.py
    #Enjoy...
-
-# folow me
-      Instagram: pausi404
-      Github   : https://github.com/404rgr
-      youtube  : Pausi Channel
